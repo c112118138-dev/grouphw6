@@ -1,4 +1,4 @@
-# CareSight 護理資訊系統 初始螢幕 Storyboard
+# CareSight  初始螢幕 Storyboard
 
 ---
 
